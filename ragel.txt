@@ -1,2 +1,20 @@
 hello this is my first program 
 hlllo this code done by regina pushpa 
+
+
+git init ----------- git project startup .,,,, .git file will be created ,, config file 
+
+
+git status =--------------- added files , modified files
+
+
+git add ----------------- adding to files to staging
+
+
+git commit ------------------------- to commit the staging files 
+
+
+git checkout -------------- 
+
+
+git push --------------------- local to github code pushing ...
